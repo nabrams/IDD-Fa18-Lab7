@@ -20,7 +20,7 @@
 
 **b. Include a video of your working video doorbell**
 
-[![Watch the video](./viddor.jpg)](https://youtu.be/06Eys4E5WHk)
+[![Watch the video](./viddoor.jpg)](https://youtu.be/06Eys4E5WHk)
 
 ## Part C. Make it your own
 
