@@ -60,6 +60,8 @@ There is websocket and serial communication in both files, but in the picureServ
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
+The library I installed is called gifShot. It uses the camera to take pictures and then turn them into a downloadable gif!
+
 **b. Upload a video of your working modified project**
 
 [gifShot](https://youtu.be/T7Zji9jaLKU)
