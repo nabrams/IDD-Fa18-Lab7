@@ -64,5 +64,5 @@ There is websocket and serial communication in both files, but in the picureServ
 
 [gifShot](https://youtu.be/T7Zji9jaLKU)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/tsSjqGRdXV1gHs8Jpc/giphy.gif)
 
