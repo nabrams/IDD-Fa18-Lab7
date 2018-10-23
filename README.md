@@ -64,6 +64,5 @@ There is websocket and serial communication in both files, but in the picureServ
 
 [gifShot](https://youtu.be/T7Zji9jaLKU)
 
-![](./gif1.mov)
-<iframe width="420" height="315" src="//www.youtube.com/embed/QH2-TGUlwu4" frameborder="0" allowfullscreen></iframe>
+![gif!](./gif1.mov)
 
