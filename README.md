@@ -62,6 +62,8 @@ There is websocket and serial communication in both files, but in the picureServ
 
 The library I installed is called gifShot. It uses the camera to take pictures and then turn them into a downloadable gif!
 
+While it was easy to get the demo working as is, the documentation on how to use the package was really confusing. After numerous attempts, I was able to get the code working on my own, but it was not registering my webcam that was plugged in. To get the final result to work, I took the pictures with the webcam, and then used the featture of the library that allows you to compile images to a gif, instead of using the webcam to make the gif!
+
 **b. Upload a video of your working modified project**
 
 [gifShot](https://youtu.be/T7Zji9jaLKU)
