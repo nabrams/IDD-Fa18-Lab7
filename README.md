@@ -63,3 +63,5 @@ There is websocket and serial communication in both files, but in the picureServ
 **b. Upload a video of your working modified project**
 
 [gifShot](https://youtu.be/T7Zji9jaLKU)
+
+![](./gif1.mov)
